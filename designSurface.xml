@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.38461538461538464" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19479166666666667" />
+        <entry key="modules/home/impl/src/main/res/layout/fragment_outside_webview.xml" value="0.3640625" />
       </map>
     </option>
   </component>
