@@ -16,6 +16,7 @@
         <entry key="commonui/src/main/res/layout/modal_bottom_sheet_dialog_fragment.xml" value="0.1" />
         <entry key="modules/account/impl/src/main/res/drawable/btn_action_light.xml" value="0.37037037037037035" />
         <entry key="modules/account/impl/src/main/res/layout/account_activity_digg.xml" value="0.3640625" />
+        <entry key="modules/account/impl/src/main/res/layout/activity_dark_mode.xml" value="0.3640625" />
         <entry key="modules/book/impl/src/main/res/drawable/red_point_oval_left.xml" value="0.21614583333333334" />
         <entry key="modules/book/impl/src/main/res/layout/fragment_book.xml" value="0.20104166666666667" />
         <entry key="modules/bytelearn/impl/src/main/res/layout/course_detail_head.xml" value="0.2037037037037037" />
