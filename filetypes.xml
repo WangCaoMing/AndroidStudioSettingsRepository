@@ -4,9 +4,12 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="INetDiagnoseService" type="PLAIN_TEXT" />
       <mapping pattern=".ninja_deps" type="PLAIN_TEXT" />
+      <mapping ext="lxi" type="PLAIN_TEXT" />
+      <mapping ext="chk" type="PLAIN_TEXT" />
+      <mapping ext="blk" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="mmb" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite" />
-      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
