@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
+  <action id="NewAndroidVectorAsset">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
