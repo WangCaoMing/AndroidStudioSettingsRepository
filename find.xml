@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/im/juejin/android/ui/MainActivity.kt [JJ_Android.app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/im/juejin/android/ui/MainActivity.kt [JJ_Android.app]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/im/juejin/android/ui/MainActivity.kt [JJ_Android.app]'" />
+    <option name="customScope" value="File '.../app/src/main/java/com/example/myapplication/MainActivity.kt [My_Application.app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/com/example/myapplication/MainActivity.kt [My_Application.app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/example/myapplication/MainActivity.kt [My_Application.app]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
