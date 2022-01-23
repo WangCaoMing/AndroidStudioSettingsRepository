@@ -7,6 +7,7 @@
       <mapping pattern="INetDiagnoseService" type="PLAIN_TEXT" />
       <mapping pattern=".ninja_deps" type="PLAIN_TEXT" />
       <mapping ext="lxi" type="PLAIN_TEXT" />
+      <mapping ext="coroutineexceptionhandler" type="PLAIN_TEXT" />
       <mapping ext="chk" type="PLAIN_TEXT" />
       <mapping ext="blk" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
