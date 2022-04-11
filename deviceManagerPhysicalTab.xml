@@ -16,43 +16,32 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="10.76.40.10:37391" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="10.76.40.10:42817" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="2497f8f7" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-08T10:23:21.147172Z" />
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="10.76.40.10:39217" />
           </Key>
         </key>
+        <name value="Xiaomi Mi 10 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.76.40.10:42561" />
+          </Key>
+        </key>
+        <name value="Xiaomi Mi 10 Pro" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.76.40.10:39585" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-11T03:54:40.601168Z" />
         <name value="Xiaomi Mi 10 Pro" />
         <target value="Android 11.0" />
         <api value="30" />
