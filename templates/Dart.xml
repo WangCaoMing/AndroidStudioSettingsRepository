@@ -1,7 +1,0 @@
-<templateSet group="Dart">
-  <template name="statefulwidget" value="aaaa" description="快速创建一个StatefulWidget模板代码" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="DART" value="true" />
-    </context>
-  </template>
-</templateSet>
