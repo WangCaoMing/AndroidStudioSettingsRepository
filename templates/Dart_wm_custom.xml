@@ -5,4 +5,10 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="statelessWidget" value="import 'package:flutter/material.dart';&#10;&#10;class $CLASS_NAME$ extends StatelessWidget {&#10;&#10;  @override&#10;  Widget build(BuildContext context) {&#10;    return Container(&#10;      child: Text(&quot;hello world&quot;),&#10;    );&#10;  }&#10;}" description="快速创建一个StatelessWidget模板代码" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="dartClassName()" defaultValue="capitalize(camelCase(fileNameWithoutExtension()))" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
