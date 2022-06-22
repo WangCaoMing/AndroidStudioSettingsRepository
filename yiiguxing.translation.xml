@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="asynchronous" />
       <item value="archive" />
       <item value="KEY IS TASK INFO FETCHED" />
       <item value="KEY IS FRESH MAN THEME TASK COMPLETED" />
@@ -8,12 +9,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649661532456" />
+    <option name="lastTrimTime" value="1655891725612" />
   </component>
 </application>
