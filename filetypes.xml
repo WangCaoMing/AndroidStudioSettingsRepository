@@ -13,6 +13,7 @@
       <mapping ext="chk" type="PLAIN_TEXT" />
       <mapping ext="blk" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="db-shm" type="PLAIN_TEXT" />
       <mapping ext="mmb" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQLite" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
