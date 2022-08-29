@@ -56,6 +56,17 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.76.42.202:38427" />
+          </Key>
+        </key>
+        <name value="Xiaomi 22041211AC" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
