@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FlutterView" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="FlutterView" />
         <option value="FC_BASE" />
+        <option value="FlutterView" />
         <option value="package:mine FC_BASE" />
         <option value="package:mine" />
       </list>
