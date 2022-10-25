@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="JJApplication.*?currentUiMode" />
+    <option name="mostRecentlyUsed" value="package:mine tag:JJApplication message~:currentUiMode.*?" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:JJApplication message~:currentUiMode.*?" />
         <option value="JJApplication.*?currentUiMode" />
         <option value="JJApplication" />
         <option value="FC_BASE" />
