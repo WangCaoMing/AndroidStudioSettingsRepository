@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="FC_BASE" />
+    <option name="mostRecentlyUsed" value="JJApplication.*?currentUiMode" />
     <option name="nonFavorites">
       <list>
+        <option value="JJApplication.*?currentUiMode" />
+        <option value="JJApplication" />
         <option value="FC_BASE" />
         <option value="FlutterView" />
         <option value="package:mine FC_BASE" />
