@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:BaseImmersionActivity" />
+    <option name="mostRecentlyUsed" value="tag:BaseImmersionActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BaseImmersionActivity" />
         <option value="package:mine tag~:BaseImmersionActivity" />
         <option value="package:mine tag:JJApplication message~:currentUiMode.*?" />
         <option value="JJApplication.*?currentUiMode" />
