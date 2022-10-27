@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BaseImmersionActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="tag:BaseImmersionActivity" />
         <option value="package:mine tag~:BaseImmersionActivity" />
         <option value="package:mine tag:JJApplication message~:currentUiMode.*?" />
@@ -11,7 +11,6 @@
         <option value="FC_BASE" />
         <option value="FlutterView" />
         <option value="package:mine FC_BASE" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
