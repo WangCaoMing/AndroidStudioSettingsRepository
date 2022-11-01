@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine message~:0x1" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:0x1" />
         <option value="package:mine" />
         <option value="package:mine tag~:ZlinkInvitePlugin" />
         <option value="package:mine level:error " />
