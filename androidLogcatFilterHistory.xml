@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:0x1" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine message~:0x1" />
         <option value="package:mine" />
         <option value="package:mine tag~:ZlinkInvitePlugin" />
-        <option value="package:mine level:error " />
         <option value="tag:BaseImmersionActivity" />
         <option value="package:mine tag~:BaseImmersionActivity" />
         <option value="package:mine tag:JJApplication message~:currentUiMode.*?" />
