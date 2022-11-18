@@ -1,0 +1,10 @@
+<templateSet group="Flutter_Wm_Group">
+  <template name="dopost" value="    doPost(path: $PATH$, data: {$DATA$}).then((response) {&#10;      if (response != null &amp;&amp; response.body != null) {&#10;         $RESP$ resp = $RESP$.fromJson(jsonDecode(response.body));&#10;        if (resp.errNo == 0) {&#10;          setState(() {&#10;            $END$&#10;          });&#10;        } else {&#10;          &#10;        }&#10;      } else {&#10;        &#10;      }&#10;    }).catchError((error) {&#10;      &#10;    });" description="dart post请求模板代码" toReformat="false" toShortenFQNames="true">
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="RESP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
