@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/base/src/main/java/com/bytedance/tech/platform/base/BaseImmersionActivity.kt [JJ_Android.base.main]'" />
-    <option name="defaultScopeName" value="File '…/base/src/main/java/com/bytedance/tech/platform/base/BaseImmersionActivity.kt [JJ_Android.base.main]'" />
+    <option name="customScope" value="File '…/app/src/main/java/im/juejin/android/ui/MainActivity.kt [JJ_Android.app.main]'" />
+    <option name="defaultScopeName" value="File '…/app/src/main/java/im/juejin/android/ui/MainActivity.kt [JJ_Android.app.main]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '…/base/src/main/java/com/bytedance/tech/platform/base/BaseImmersionActivity.kt [JJ_Android.base.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…/app/src/main/java/im/juejin/android/ui/MainActivity.kt [JJ_Android.app.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
