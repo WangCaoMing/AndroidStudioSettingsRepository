@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DrLog" />
+    <option name="mostRecentlyUsed" value="message:app_log" />
     <option name="nonFavorites">
       <list>
+        <option value="message:app_log" />
         <option value="tag:DrLog" />
         <option value="bdtracker" />
         <option value="level:DEBUG " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:JJApplication message~:currentUiMode.*?" />
         <option value="JJApplication.*?currentUiMode" />
         <option value="JJApplication" />
-        <option value="FC_BASE" />
       </list>
     </option>
   </component>
