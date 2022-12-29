@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:DEBUG " />
+    <option name="mostRecentlyUsed" value="tag:DrLog" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DrLog" />
+        <option value="bdtracker" />
         <option value="level:DEBUG " />
         <option value="level:ERROR " />
         <option value="level:DEBUG tag:wangcaoming" />
@@ -21,8 +23,6 @@
         <option value="JJApplication.*?currentUiMode" />
         <option value="JJApplication" />
         <option value="FC_BASE" />
-        <option value="FlutterView" />
-        <option value="package:mine FC_BASE" />
       </list>
     </option>
   </component>
