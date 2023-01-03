@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="level:debug  package:mine tag:all_view_ids " />
     <option name="nonFavorites">
       <list>
+        <option value="level:debug  package:mine tag:all_view_ids " />
+        <option value="level:error package:mine tag:all_view_ids" />
         <option value="level:error package:mine " />
         <option value="level:error " />
         <option value="message:AppLog" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:ChoicenessPinsListFragment" />
         <option value="package:mine tag:" />
         <option value="package:mine level:error " />
-        <option value="package:mine" />
-        <option value="package:mine message~:0x1" />
       </list>
     </option>
   </component>
