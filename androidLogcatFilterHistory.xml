@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="message:AppLog" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="message:AppLog" />
         <option value="message:NetworkClient.getDefault().get" />
         <option value="tag:AppLog" />
@@ -22,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine message~:0x1" />
         <option value="package:mine tag~:ZlinkInvitePlugin" />
-        <option value="tag:BaseImmersionActivity" />
       </list>
     </option>
   </component>
