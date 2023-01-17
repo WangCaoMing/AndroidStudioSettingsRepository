@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:debug  package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:develop_test " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:develop_test " />
+        <option value="level:debug  package:mine tag:develop_test " />
         <option value="level:debug  package:mine" />
         <option value="level:debug  package:mine tag:time_statistics" />
         <option value="level:debug  package:mine tag:time_statistic" />
@@ -21,8 +23,6 @@
         <option value="level:ERROR " />
         <option value="level:DEBUG tag:wangcaoming" />
         <option value="level:DEBUG tag:EventVerify" />
-        <option value="package:mine level:DEBUG tag:EventVerify" />
-        <option value="package:mine level:ERROR " />
       </list>
     </option>
   </component>
