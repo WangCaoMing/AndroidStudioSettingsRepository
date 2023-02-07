@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming|SKIN_SDK " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:wangcaoming|SKIN_SDK " />
         <option value="package:mine tag~:wangcaoming|SKIN_SDK message~:ConstraintLayout" />
         <option value="package:mine tag~:(wangcaoming|SKIN_SDK)" />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="message:AppLog" />
         <option value="message:NetworkClient.getDefault().get" />
-        <option value="tag:AppLog" />
       </list>
     </option>
   </component>
