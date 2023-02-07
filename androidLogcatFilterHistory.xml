@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:develop_test " />
+    <option name="mostRecentlyUsed" value="package:mine tag:SKIN_SDK message:ConstraintLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:SKIN_SDK message:ConstraintLayout" />
+        <option value="package:mine tag:SKIN_SDK message~:ConstraintLayout" />
+        <option value="package:mine tag:SKIN_SDK " />
+        <option value="package:mine " />
         <option value="package:mine tag:develop_test " />
         <option value="package:mine tag:BottomNavigationView" />
         <option value="level:debug  package:mine tag:develop_test " />
@@ -19,10 +23,6 @@
         <option value="tag:Monitor_AppLog" />
         <option value="message:app_log" />
         <option value="tag:DrLog" />
-        <option value="bdtracker" />
-        <option value="level:DEBUG " />
-        <option value="level:ERROR " />
-        <option value="level:DEBUG tag:wangcaoming" />
       </list>
     </option>
   </component>
