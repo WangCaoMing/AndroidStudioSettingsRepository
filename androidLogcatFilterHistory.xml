@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:wangcaoming " />
+    <option name="mostRecentlyUsed" value="package:mine level:error  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error  " />
         <option value="package:mine tag:wangcaoming " />
         <option value="package:mine" />
         <option value="package:mine tag:wangcaoming" />
@@ -22,7 +23,6 @@
         <option value="level:debug  package:mine tag:develop_test " />
         <option value="level:debug  package:mine" />
         <option value="level:debug  package:mine tag:time_statistics" />
-        <option value="level:debug  package:mine tag:time_statistic" />
       </list>
     </option>
   </component>
