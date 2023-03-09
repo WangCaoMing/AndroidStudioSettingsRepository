@@ -1,15 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:filterAllMatchedCharacters" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:filterAllMatchedCharacters" />
+        <option value="package:mine tag~:(JJCharacterFilterRules|filterAllMatchedCharacters)" />
+        <option value="package:mine tag~:(JJCharacterFilterRules|)" />
+        <option value="package:mine tag:JJCharacterFilterRules" />
+        <option value="package:mine tag:" />
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:error  " />
         <option value="package:mine tag:TopicFragment " />
         <option value="package:mine tag:wangcaoming " />
         <option value="package:mine" />
         <option value="package:mine tag:wangcaoming" />
-        <option value="package:mine " />
         <option value="package:mine tag:SKIN_SDK message~:creator" />
         <option value="package:mine tag:SKIN_SDK " />
         <option value="package:mine tag:jumpFactory" />
@@ -18,11 +23,6 @@
         <option value="package:mine tag~:wangcaoming|SKIN_SDK message~:ConstraintLayout" />
         <option value="package:mine tag~:(wangcaoming|SKIN_SDK)" />
         <option value="package:mine tag:SKIN_SDK message:ConstraintLayout" />
-        <option value="package:mine tag:SKIN_SDK message~:ConstraintLayout" />
-        <option value="package:mine tag:develop_test " />
-        <option value="package:mine tag:BottomNavigationView" />
-        <option value="level:debug  package:mine tag:develop_test " />
-        <option value="level:debug  package:mine" />
       </list>
     </option>
   </component>
