@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:jumpFactory" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:jumpFactory" />
         <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine  tag:wangcaoming" />
@@ -19,7 +20,6 @@
         <option value="package:mine tag:wangcaoming" />
         <option value="package:mine tag:SKIN_SDK message~:creator" />
         <option value="package:mine tag:SKIN_SDK " />
-        <option value="package:mine tag:jumpFactory" />
         <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:wangcaoming|SKIN_SDK " />
         <option value="package:mine tag~:wangcaoming|SKIN_SDK message~:ConstraintLayout" />
