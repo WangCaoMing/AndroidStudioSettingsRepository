@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:ZlinkInitTask" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:ZlinkInitTask|MainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:ZlinkInitTask|MainActivity" />
         <option value="package:mine tag~:ZlinkInitTask" />
         <option value="package:mine tag~:plashActivity-tag|JumpFactory|xujy" />
         <option value="package:mine tag~:plashActivity-tag|JumpFactory" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:wangcaoming " />
         <option value="package:mine tag:wangcaoming" />
         <option value="package:mine tag:SKIN_SDK message~:creator" />
-        <option value="package:mine tag:SKIN_SDK " />
       </list>
     </option>
   </component>
