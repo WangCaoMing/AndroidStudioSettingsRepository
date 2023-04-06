@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:CardCommentTitle" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:FrescoCacheResearchActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:FrescoCacheResearchActivity" />
         <option value="package:mine tag~:CardCommentTitle" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity|wangcaoming" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity" />
@@ -22,7 +23,6 @@
         <option value="package:mine " />
         <option value="package:mine level:error  " />
         <option value="package:mine tag:TopicFragment " />
-        <option value="package:mine tag:wangcaoming " />
       </list>
     </option>
   </component>
