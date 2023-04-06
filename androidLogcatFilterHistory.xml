@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:FrescoCacheResearchActivity" />
+        <option value="package:mine" />
         <option value="package:mine tag~:CardCommentTitle" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity|wangcaoming" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity" />
@@ -11,7 +12,6 @@
         <option value="package:mine tag~:plashActivity-tag|JumpFactory|xujy" />
         <option value="package:mine tag~:plashActivity-tag|JumpFactory" />
         <option value="package:mine tag:jumpFactory" />
-        <option value="package:mine" />
         <option value="package:mine level:error " />
         <option value="package:mine  tag:wangcaoming" />
         <option value="package:mine tag~:filterAllMatchedCharacters" />
