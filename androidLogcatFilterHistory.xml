@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:FrescoCacheResearchActivity" />
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
         <option value="package:mine tag~:FrescoCacheResearchActivity" />
         <option value="package:mine" />
         <option value="package:mine tag~:CardCommentTitle" />
@@ -12,7 +13,6 @@
         <option value="package:mine tag~:plashActivity-tag|JumpFactory|xujy" />
         <option value="package:mine tag~:plashActivity-tag|JumpFactory" />
         <option value="package:mine tag:jumpFactory" />
-        <option value="package:mine level:error " />
         <option value="package:mine  tag:wangcaoming" />
         <option value="package:mine tag~:filterAllMatchedCharacters" />
         <option value="package:mine tag~:JJCharacterFilterRules" />
