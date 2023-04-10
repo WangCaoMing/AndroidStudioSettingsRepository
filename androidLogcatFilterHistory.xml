@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine message~:fps" />
+        <option value="package:mine message~:performance" />
         <option value="message:fps" />
         <option value="message:fps_drop" />
         <option value="package:mine message:fps_drop" />
@@ -22,7 +23,6 @@
         <option value="package:mine  tag:wangcaoming" />
         <option value="package:mine tag~:filterAllMatchedCharacters" />
         <option value="package:mine tag~:JJCharacterFilterRules" />
-        <option value="package:mine tag~:(JJCharacterFilterRules|filterAllMatchedCharacters)" />
       </list>
     </option>
   </component>
