@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming" />
+    <option name="mostRecentlyUsed" value="package:mine message~:fps" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:fps" />
+        <option value="message:fps" />
+        <option value="message:fps_drop" />
+        <option value="package:mine message:fps_drop" />
+        <option value="package:mine message~:fp" />
         <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine level:error " />
         <option value="package:mine tag~:FrescoCacheResearchActivity" />
@@ -18,11 +23,6 @@
         <option value="package:mine tag~:filterAllMatchedCharacters" />
         <option value="package:mine tag~:JJCharacterFilterRules" />
         <option value="package:mine tag~:(JJCharacterFilterRules|filterAllMatchedCharacters)" />
-        <option value="package:mine tag~:(JJCharacterFilterRules|)" />
-        <option value="package:mine tag:JJCharacterFilterRules" />
-        <option value="package:mine tag:" />
-        <option value="package:mine " />
-        <option value="package:mine level:error  " />
       </list>
     </option>
   </component>
