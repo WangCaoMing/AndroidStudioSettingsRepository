@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine level:error message~:Exception" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine level:error message~:Exception" />
         <option value="package:mine level:error " />
+        <option value="package:mine" />
         <option value="package:mine tag~:CustomSuperUncaughtPlugin|GodzillaService.FetchConfigHelper" />
         <option value="package:mine tag~:CustomSuperUncaughtPlugin" />
         <option value="package:mine messa" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:ZlinkInitTask" />
         <option value="package:mine tag~:plashActivity-tag|JumpFactory|xujy" />
         <option value="package:mine tag~:plashActivity-tag|JumpFactory" />
-        <option value="package:mine tag:jumpFactory" />
       </list>
     </option>
   </component>
