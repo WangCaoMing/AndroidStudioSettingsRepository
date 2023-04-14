@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error" />
+    <option name="mostRecentlyUsed" value="package:mine message~:fps" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:fps" />
         <option value="package:mine level:error" />
         <option value="package:mine level:error message~:Exception" />
         <option value="package:mine level:error " />
@@ -10,7 +11,6 @@
         <option value="package:mine tag~:CustomSuperUncaughtPlugin|GodzillaService.FetchConfigHelper" />
         <option value="package:mine tag~:CustomSuperUncaughtPlugin" />
         <option value="package:mine messa" />
-        <option value="package:mine message~:fps" />
         <option value="package:mine message~:performance" />
         <option value="message:fps" />
         <option value="message:fps_drop" />
