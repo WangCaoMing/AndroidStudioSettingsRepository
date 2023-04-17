@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message~:fps" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine message~:fps" />
         <option value="package:mine level:error" />
         <option value="package:mine level:error message~:Exception" />
@@ -16,7 +17,6 @@
         <option value="message:fps_drop" />
         <option value="package:mine message:fps_drop" />
         <option value="package:mine message~:fp" />
-        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:FrescoCacheResearchActivity" />
         <option value="package:mine tag~:CardCommentTitle" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity|wangcaoming" />
