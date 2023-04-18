@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:UserFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:UserFragment" />
         <option value="package:mine " />
         <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine message~:fps" />
@@ -21,7 +23,6 @@
         <option value="package:mine tag~:CardCommentTitle" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity|wangcaoming" />
         <option value="package:mine tag~:ZlinkInitTask|MainActivity" />
-        <option value="package:mine tag~:ZlinkInitTask" />
       </list>
     </option>
   </component>
