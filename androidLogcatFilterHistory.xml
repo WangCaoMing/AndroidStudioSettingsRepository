@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine message~:not init TTAccount config" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:not init TTAccount config" />
         <option value="package:mine level:error " />
+        <option value="package:mine " />
+        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine level:error  " />
         <option value="package:mine tag~:wangcaoming " />
         <option value="package:mine tag~:UserFragment" />
         <option value="package:mine" />
-        <option value="package:mine " />
-        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine message~:fps" />
         <option value="package:mine level:error" />
         <option value="package:mine level:error message~:Exception" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:fps_drop" />
         <option value="package:mine message~:fp" />
         <option value="package:mine tag~:FrescoCacheResearchActivity" />
-        <option value="package:mine tag~:CardCommentTitle" />
       </list>
     </option>
   </component>
