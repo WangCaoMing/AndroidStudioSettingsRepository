@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming|BDAccountManager" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:wangcaoming|BDAccountManager" />
+        <option value="package:mine tag~:wangcaoming " />
         <option value="package:mine " />
         <option value="package:mine level:error " />
-        <option value="package:mine tag~:wangcaoming " />
         <option value="package:mine message~:not init TTAccount config" />
         <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine level:error  " />
@@ -21,7 +23,6 @@
         <option value="message:fps_drop" />
         <option value="package:mine message:fps_drop" />
         <option value="package:mine message~:fp" />
-        <option value="package:mine tag~:FrescoCacheResearchActivity" />
       </list>
     </option>
   </component>
