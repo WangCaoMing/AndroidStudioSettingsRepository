@@ -1,14 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:ChangeDayNightModeCompat" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:ChangeDayNightModeCompat|DarkModeActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:ChangeDayNightModeCompat|DarkModeActivity" />
+        <option value="package:mine tag~:UserFragment|ChangeDayNightModeCompat|JJApplication" />
+        <option value="package:mine tag~:UserFragment|ChangeDayNightModeCompat" />
+        <option value="package:mine tag~:UserFragment|Change" />
+        <option value="package:mine tag~:" />
+        <option value="package:mine message~:updateModeButtonUI" />
         <option value="package:mine tag~:ChangeDayNightModeCompat" />
         <option value="package:mine tag~:PerLoadWebView" />
         <option value="package:mine tag~: " />
         <option value="package:mine tag~:wangcaoming " />
         <option value="package:mine tag~:CardArticleV2" />
-        <option value="package:mine tag~:" />
         <option value="package:mine tag~:ChangeDayNightModeCompat|PerLoadWebView" />
         <option value="package:mine level:error " />
         <option value="package:mine tag~:wangcaoming" />
@@ -18,11 +23,6 @@
         <option value="package:mine level:error  " />
         <option value="package:mine tag~:UserFragment" />
         <option value="package:mine" />
-        <option value="package:mine message~:fps" />
-        <option value="package:mine level:error" />
-        <option value="package:mine level:error message~:Exception" />
-        <option value="package:mine tag~:CustomSuperUncaughtPlugin|GodzillaService.FetchConfigHelper" />
-        <option value="package:mine tag~:CustomSuperUncaughtPlugin" />
       </list>
     </option>
   </component>
