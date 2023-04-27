@@ -1,13 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:ChangeDayNightModeCompat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:ChangeDayNightModeCompat" />
+        <option value="package:mine tag~:PerLoadWebView" />
+        <option value="package:mine tag~: " />
         <option value="package:mine tag~:wangcaoming " />
         <option value="package:mine tag~:CardArticleV2" />
         <option value="package:mine tag~:" />
         <option value="package:mine tag~:ChangeDayNightModeCompat|PerLoadWebView" />
-        <option value="package:mine tag~:ChangeDayNightModeCompat" />
         <option value="package:mine level:error " />
         <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:wangcaoming|BDAccountManager" />
@@ -21,8 +23,6 @@
         <option value="package:mine level:error message~:Exception" />
         <option value="package:mine tag~:CustomSuperUncaughtPlugin|GodzillaService.FetchConfigHelper" />
         <option value="package:mine tag~:CustomSuperUncaughtPlugin" />
-        <option value="package:mine messa" />
-        <option value="package:mine message~:performance" />
       </list>
     </option>
   </component>
