@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:xujy message~:DOWNLOAD" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:wangcaoming " />
+        <option value="package:mine tag~:xujy|wangcaoming message~:DOWNLOAD" />
         <option value="package:mine tag~:xujy message~:DOWNLOAD" />
         <option value="package:mine tag~:xujy message~:D" />
         <option value="package:mine tag~:xujy" />
@@ -17,12 +19,10 @@
         <option value="package:mine tag~:ChangeDayNightModeCompat" />
         <option value="package:mine tag~:PerLoadWebView" />
         <option value="package:mine tag~: " />
-        <option value="package:mine tag~:wangcaoming " />
         <option value="package:mine tag~:CardArticleV2" />
         <option value="package:mine tag~:ChangeDayNightModeCompat|PerLoadWebView" />
         <option value="package:mine level:error " />
         <option value="package:mine tag~:wangcaoming|BDAccountManager" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
