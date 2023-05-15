@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:web_load_test|webview_error|PerLoadWebView" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*?file://.*?" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*?file://.*?" />
+        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*?file" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView" />
+        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*\.css" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView mess" />
         <option value="package:mine tag~:web_load_test|webview_error" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag~:UserFragment|ChangeDayNightModeCompat|JJApplication" />
         <option value="package:mine tag~:UserFragment|ChangeDayNightModeCompat" />
         <option value="package:mine tag~:UserFragment|Change" />
-        <option value="package:mine tag~:" />
-        <option value="package:mine message~:updateModeButtonUI" />
-        <option value="package:mine tag~:ChangeDayNightModeCompat" />
       </list>
     </option>
   </component>
