@@ -1,9 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:web_load_test|webview_error|PerLoadWebView" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*\.css" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*\.css" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView" />
+        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView mess" />
         <option value="package:mine tag~:web_load_test|webview_error" />
         <option value="package:mine tag~:web_load_test" />
         <option value="package:mine tag~:gecko-debug-tag " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:" />
         <option value="package:mine message~:updateModeButtonUI" />
         <option value="package:mine tag~:ChangeDayNightModeCompat" />
-        <option value="package:mine tag~:PerLoadWebView" />
-        <option value="package:mine tag~: " />
       </list>
     </option>
   </component>
