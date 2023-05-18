@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="package:mine tag~:AccountBdTuring" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:AccountBdTuring" />
         <option value="package:mine level:error " />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest.*" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:xujy message~:D" />
         <option value="package:mine tag~:xujy" />
         <option value="package:mine tag~:wangcaoming" />
-        <option value="package:mine tag~:DOKIT_SLOW_METHOD" />
       </list>
     </option>
   </component>
