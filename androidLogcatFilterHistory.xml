@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:AccountBdTuring|BdTuring" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:AccountBdTuring|BdTuring" />
         <option value="package:mine tag~:AccountBdTuring" />
+        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine level:error " />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest.*" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:" />
