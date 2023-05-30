@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error " />
+        <option value="package:mine tag:BdtrackerInitHooker" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine message:version_code" />
@@ -9,7 +12,6 @@
         <option value="package:mine tag~:AccountBdTuring|BdTuring" />
         <option value="package:mine tag~:AccountBdTuring" />
         <option value="package:mine tag~:wangcaoming" />
-        <option value="package:mine level:error " />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest.*" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView mess" />
         <option value="package:mine tag~:web_load_test|webview_error" />
         <option value="package:mine tag~:web_load_test" />
-        <option value="package:mine tag~:gecko-debug-tag " />
       </list>
     </option>
   </component>
