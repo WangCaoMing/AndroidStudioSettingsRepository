@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:version_code" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine message:version_code" />
-        <option value="package:mine message:64700" />
         <option value="package:mine " />
         <option value="package:mine" />
+        <option value="package:mine message:version_code" />
+        <option value="package:mine message:64700" />
         <option value="package:mine tag~:AccountBdTuring|BdTuring" />
         <option value="package:mine tag~:AccountBdTuring" />
         <option value="package:mine tag~:wangcaoming" />
