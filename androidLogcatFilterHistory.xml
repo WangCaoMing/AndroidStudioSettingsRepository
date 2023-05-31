@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:StackManager" />
+    <option name="mostRecentlyUsed" value="package:mine level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error" />
         <option value="package:mine tag:StackManager" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:BdtrackerInitHooker" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*\.css" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView mess" />
-        <option value="package:mine tag~:web_load_test|webview_error" />
       </list>
     </option>
   </component>
