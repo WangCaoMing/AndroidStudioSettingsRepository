@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:RecommendPrefetchTask" />
+    <option name="mostRecentlyUsed" value="package:mine message:timeout" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:timeout" />
+        <option value="package:mine" />
+        <option value="package:mine message:anr" />
         <option value="package:mine message:RecommendPrefetchTask" />
         <option value="package:mine tag:StackManager" />
         <option value="package:mine tag:" />
@@ -10,7 +13,6 @@
         <option value="package:mine level:error " />
         <option value="package:mine tag:BdtrackerInitHooker" />
         <option value="package:mine " />
-        <option value="package:mine" />
         <option value="package:mine message:version_code" />
         <option value="package:mine message:64700" />
         <option value="package:mine tag~:AccountBdTuring|BdTuring" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView " />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*?file://.*?" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*?file" />
-        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView" />
-        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest" />
       </list>
     </option>
   </component>
