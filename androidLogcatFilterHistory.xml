@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:StackManager" />
+    <option name="mostRecentlyUsed" value="package:mine message:RecommendPrefetchTask" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:RecommendPrefetchTask" />
         <option value="package:mine tag:StackManager" />
         <option value="package:mine tag:" />
         <option value="package:mine level:error" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*?file" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView" />
         <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest" />
-        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:.*\.css" />
       </list>
     </option>
   </component>
