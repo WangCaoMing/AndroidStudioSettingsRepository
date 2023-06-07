@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:UserProfileMainFragment|JumpFactory|StackManager" />
+    <option name="mostRecentlyUsed" value="package:mine message:umeng" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message:umeng" />
+        <option value="package:mine " />
+        <option value="umeng" />
         <option value="package:mine tag~:UserProfileMainFragment|JumpFactory|StackManager" />
         <option value="package:mine tag~:UserProfileMainFragment|JumpFactory" />
         <option value="package:mine tag:JumpFactory" />
@@ -16,13 +19,10 @@
         <option value="package:mine level:error" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:BdtrackerInitHooker" />
-        <option value="package:mine " />
         <option value="package:mine message:version_code" />
         <option value="package:mine message:64700" />
         <option value="package:mine tag~:AccountBdTuring|BdTuring" />
         <option value="package:mine tag~:AccountBdTuring" />
-        <option value="package:mine tag~:wangcaoming" />
-        <option value="package:mine tag~:web_load_test|webview_error|PerLoadWebView message~:shouldInterceptRequest.*" />
       </list>
     </option>
   </component>
