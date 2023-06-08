@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine tag:UMConfigure" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:UMConfigure" />
         <option value="package:mine" />
         <option value="package:mine message:BDPush" />
         <option value="package:com.daimajia.gold" />
@@ -22,7 +23,6 @@
         <option value="package:mine message:RecommendPrefetchTask" />
         <option value="package:mine tag:StackManager" />
         <option value="package:mine tag:" />
-        <option value="package:mine level:error" />
       </list>
     </option>
   </component>
