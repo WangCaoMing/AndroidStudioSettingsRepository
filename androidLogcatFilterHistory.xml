@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:umeng" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:com.daimajia.gold" />
+        <option value="message:BDpush" />
+        <option value="package:mine message:BDpush" />
+        <option value="package:mine tag:BDpush" />
+        <option value="package:mine tag:UmengIntentService" />
         <option value="package:mine message:umeng" />
         <option value="package:mine " />
         <option value="umeng" />
@@ -11,18 +17,12 @@
         <option value="package:mine tag:JumpFactory" />
         <option value="package:mine tag:jumpFactory " />
         <option value="package:mine message:timeout" />
-        <option value="package:mine" />
         <option value="package:mine message:anr" />
         <option value="package:mine message:RecommendPrefetchTask" />
         <option value="package:mine tag:StackManager" />
         <option value="package:mine tag:" />
         <option value="package:mine level:error" />
         <option value="package:mine level:error " />
-        <option value="package:mine tag:BdtrackerInitHooker" />
-        <option value="package:mine message:version_code" />
-        <option value="package:mine message:64700" />
-        <option value="package:mine tag~:AccountBdTuring|BdTuring" />
-        <option value="package:mine tag~:AccountBdTuring" />
       </list>
     </option>
   </component>
