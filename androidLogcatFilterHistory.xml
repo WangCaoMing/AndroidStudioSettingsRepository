@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine" />
+        <option value="package:mine message:BDPush" />
         <option value="package:com.daimajia.gold" />
         <option value="message:BDpush" />
         <option value="package:mine message:BDpush" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:StackManager" />
         <option value="package:mine tag:" />
         <option value="package:mine level:error" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
