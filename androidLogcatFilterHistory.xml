@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine message:mipush" />
+    <option name="mostRecentlyUsed" value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:newConfig.uiMode" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:newConfig.uiMode" />
+        <option value="package:mine tag:ChangeDayNightModeCompat message:nActivityConfigurationChanged:newConfig.uiMode" />
+        <option value="package:mine tag:ChangeDayNightModeCompat" />
+        <option value="package:mine tag:SKIN_SDK " />
         <option value="package:mine message:mipush" />
         <option value="package:mine tag:UMConfigure" />
         <option value="package:mine" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag~:UserProfileMainFragment|JumpFactory" />
         <option value="package:mine tag:JumpFactory" />
         <option value="package:mine tag:jumpFactory " />
-        <option value="package:mine message:timeout" />
-        <option value="package:mine message:anr" />
-        <option value="package:mine message:RecommendPrefetchTask" />
-        <option value="package:mine tag:StackManager" />
       </list>
     </option>
   </component>
