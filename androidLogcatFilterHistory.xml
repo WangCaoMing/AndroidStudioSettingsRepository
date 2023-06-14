@@ -1,14 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:ChangeDayNightModeCompat" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:ChangeDayNightModeCompat" />
+        <option value="package:mine tag~:ChangeDayNightModeCompat|ChangeDayNightModeCompat" />
+        <option value="package:mine tag:ChangeDayNightModeCompat" />
+        <option value="package:mine tag:ChangeDayNightModeCompat message~:(onActivityConfigurationChanged|changeDayNightModeCompat)" />
+        <option value="package:mine tag:ChangeDayNightModeCompat message~:(onActivityConfigurationChanged|)" />
         <option value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:" />
         <option value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:changeFollowSystemNightMode" />
         <option value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged" />
         <option value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:newConfig.uiMode" />
         <option value="package:mine tag:ChangeDayNightModeCompat message:nActivityConfigurationChanged:newConfig.uiMode" />
-        <option value="package:mine tag:ChangeDayNightModeCompat" />
         <option value="package:mine tag:SKIN_SDK " />
         <option value="package:mine message:mipush" />
         <option value="package:mine tag:UMConfigure" />
@@ -19,10 +23,6 @@
         <option value="package:mine message:BDpush" />
         <option value="package:mine tag:BDpush" />
         <option value="package:mine tag:UmengIntentService" />
-        <option value="package:mine message:umeng" />
-        <option value="package:mine " />
-        <option value="umeng" />
-        <option value="package:mine tag~:UserProfileMainFragment|JumpFactory|StackManager" />
       </list>
     </option>
   </component>
