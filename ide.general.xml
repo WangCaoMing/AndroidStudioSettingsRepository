@@ -21,7 +21,6 @@
         <entry key="ActiveOCBuildConfiguration" value="false" />
         <entry key="Encoding" value="false" />
         <entry key="Memory" value="true" />
-        <entry key="Position" value="false" />
         <entry key="com.github.copilot" value="false" />
         <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
       </map>
