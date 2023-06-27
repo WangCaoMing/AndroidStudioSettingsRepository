@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:ChangeDayNightModeCompat" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:ChangeDayNightModeCompat" />
         <option value="package:mine tag~:ChangeDayNightModeCompat|ChangeDayNightModeCompat" />
         <option value="package:mine tag:ChangeDayNightModeCompat" />
@@ -22,7 +23,6 @@
         <option value="message:BDpush" />
         <option value="package:mine message:BDpush" />
         <option value="package:mine tag:BDpush" />
-        <option value="package:mine tag:UmengIntentService" />
       </list>
     </option>
   </component>
