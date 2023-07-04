@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:wangcaoming" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag~:wangcaoming" />
         <option value="package:mine tag~:ChangeDayNightModeCompat" />
         <option value="package:mine tag~:ChangeDayNightModeCompat|ChangeDayNightModeCompat" />
@@ -22,7 +22,6 @@
         <option value="package:com.daimajia.gold" />
         <option value="message:BDpush" />
         <option value="package:mine message:BDpush" />
-        <option value="package:mine tag:BDpush" />
       </list>
     </option>
   </component>
