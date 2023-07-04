@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="message:flutter" />
     <option name="nonFavorites">
       <list>
+        <option value="message:flutter" />
         <option value="package:mine " />
         <option value="package:mine tag:flutter " />
         <option value="package:mine tag~:wangcaoming" />
@@ -21,7 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine message:BDPush" />
         <option value="package:com.daimajia.gold" />
-        <option value="message:BDpush" />
       </list>
     </option>
   </component>
