@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:SKIN_SDK_TIME" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:SKIN_SDK_TIME message~:create\ view\ time\ -&gt;\ " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:SKIN_SDK_TIME message~:create\ view\ time\ -&gt;\ " />
+        <option value="package:mine tag~:SKIN_SDK_TIME message:create\ view\ time" />
         <option value="package:mine tag~:SKIN_SDK_TIME" />
         <option value="package:mine tag~:SKIN_SDK &amp; (message:start\ apply\ Skin\ View | message:end\ apply\ Skin\ View)" />
         <option value="package:mine tag~:SKIN_SDK message:" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:ChangeDayNightModeCompat|ChangeDayNightModeCompat" />
         <option value="package:mine tag:ChangeDayNightModeCompat" />
         <option value="package:mine tag:ChangeDayNightModeCompat message~:(onActivityConfigurationChanged|changeDayNightModeCompat)" />
-        <option value="package:mine tag:ChangeDayNightModeCompat message~:(onActivityConfigurationChanged|)" />
-        <option value="package:mine tag:ChangeDayNightModeCompat message:onActivityConfigurationChanged:" />
       </list>
     </option>
   </component>
